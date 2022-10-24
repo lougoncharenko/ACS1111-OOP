@@ -1,0 +1,5 @@
+Do you think scope is causing problems or solving problems?
+
+What kinds of problems does scope create?
+
+What kind of problems does scope solve?

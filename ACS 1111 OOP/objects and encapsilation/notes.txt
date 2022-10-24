@@ -1,0 +1,10 @@
+# Objects and Encapsilation
+
+A CLASS is a blueprint to make objects (aka instances)
+Classes define the data (called attributes) and behaviors (called methods) that characterize objects.
+An attribute is a variable connected and unique to its class.
+A method is a function inside a class that can act on an object’s data.
+
+
+self in python is like "this" in javascript
+__init__ is like the constructor() in javascript
